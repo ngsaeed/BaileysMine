@@ -1,10 +1,5 @@
 {
-    "extends": "@adiwajshing",
-    "parserOptions": {
-        "sourceType": "module",
-        "project": "./tsconfig.json"
-    },
-    "ignorePatterns": ["src/Tests/*"],
+    "extends": "./node_modules/gts/",
     "rules": {
         "@typescript-eslint/no-explicit-any": [
             "warn",
@@ -30,3 +25,4 @@
         ]
     }
 }
+

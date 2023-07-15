@@ -18,3 +18,17 @@ Proxy
 test.ts
 TestData
 wa-logs.txt
+/.idea/*
+/data/*
+/.idea/.gitignore
+/.idea/BaileysMine.iml
+/.idea/codeStyles/codeStyleConfig.xml
+/.idea/deployment.xml
+/.idea/git_toolbox_prj.xml
+/data/J301.json
+/.idea/modules.xml
+/.idea/codeStyles/Project.xml
+/.idea/inspectionProfiles/Project_Default.xml
+/.idea/sshConfigs.xml
+/.idea/vcs.xml
+/.idea/webServers.xml
